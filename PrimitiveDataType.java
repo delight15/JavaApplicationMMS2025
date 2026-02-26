@@ -23,7 +23,6 @@ public class PrimitiveDataType{
 		
 		
 		// FLOAT-POINT PRIMITIVE DATA TYPE
-		
 		float myBalance = 6945.6000057F	;
 		System.out.printf("My Account balance is %.2f%n", myBalance);
 		
