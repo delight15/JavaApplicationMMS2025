@@ -34,10 +34,7 @@ public class OperatorsPart2{
 		y = ++x;
 		
 		System.out.println("The value of decrement x is " + x);
-		System.out.println("The value of decrement y is " + y);
-		
-		
-		
+		System.out.println("The value of decrement y is " + y);		
 		
 	}
 }
